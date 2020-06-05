@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weathar-app/static/css/main.27c4c60a.chunk.css",
+    "main.js": "/Weathar-app/static/js/main.b97bfce4.chunk.js",
+    "main.js.map": "/Weathar-app/static/js/main.b97bfce4.chunk.js.map",
+    "runtime-main.js": "/Weathar-app/static/js/runtime-main.7dd4fdd8.js",
+    "runtime-main.js.map": "/Weathar-app/static/js/runtime-main.7dd4fdd8.js.map",
+    "static/js/2.abb76069.chunk.js": "/Weathar-app/static/js/2.abb76069.chunk.js",
+    "static/js/2.abb76069.chunk.js.map": "/Weathar-app/static/js/2.abb76069.chunk.js.map",
+    "index.html": "/Weathar-app/index.html",
+    "precache-manifest.7db6bca51a37cfbeb40adac78580b1ad.js": "/Weathar-app/precache-manifest.7db6bca51a37cfbeb40adac78580b1ad.js",
+    "service-worker.js": "/Weathar-app/service-worker.js",
+    "static/css/main.27c4c60a.chunk.css.map": "/Weathar-app/static/css/main.27c4c60a.chunk.css.map",
+    "static/js/2.abb76069.chunk.js.LICENSE.txt": "/Weathar-app/static/js/2.abb76069.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Weathar-app/static/media/sun.365370dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dd4fdd8.js",
+    "static/js/2.abb76069.chunk.js",
+    "static/css/main.27c4c60a.chunk.css",
+    "static/js/main.b97bfce4.chunk.js"
+  ]
+}
